@@ -1,6 +1,6 @@
 # Required-reading
 
-A list of articles, books, videos to make you a better developer.
+A list of articles, books, videos to make me (or you) a better developer.
 
 ## JavaScript
 
