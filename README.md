@@ -12,6 +12,7 @@ A list of articles, books, videos to make me (or you) a better developer.
 ### Books
 
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 
