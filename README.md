@@ -2,6 +2,8 @@
 
 A list of articles, books, videos to make me (or you) a better developer.
 
+[The Boring Front-end Developer](http://thebfed.com/)
+
 ## JavaScript
 
 ### Style Guides
