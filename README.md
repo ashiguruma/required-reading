@@ -2,7 +2,8 @@
 
 A list of articles, books, videos to make me (or you) a better developer.
 
-[The Boring Front-end Developer](http://thebfed.com/)
+- [The Boring Front-end Developer](http://thebfed.com/)
+- [Mother Fucking Website](http://motherfuckingwebsite.com/)
 
 ## JavaScript
 
