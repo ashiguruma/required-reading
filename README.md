@@ -6,6 +6,10 @@ A list of articles, books, videos to make me (or you) a better developer.
 - [The Boring Front-end Developer](http://adamsilver.io/articles/the-boring-front-end-developer/)
 - [Mother Fucking Website](http://motherfuckingwebsite.com/)
 
+## Accessibility
+
+- [The Accessibility Project](http://a11yproject.com/)
+
 ## JavaScript
 
 ### Style Guides
