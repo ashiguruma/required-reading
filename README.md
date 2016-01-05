@@ -19,9 +19,15 @@ A list of articles, books, videos to make me (or you) a better developer.
 
 ### Books
 
+#### Pure JS
+
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+#### Libraries &amp; Frameworks
+
+- [Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/)
 
 
 ### Articles
@@ -29,6 +35,10 @@ A list of articles, books, videos to make me (or you) a better developer.
 - [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 - [ECMAScript 5 Strict Mode, JSON, and More](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
 
+
+### Exercises/Courses
+
+- [ES6 Katas](http://es6katas.org/)
 
 ## HTML
 
