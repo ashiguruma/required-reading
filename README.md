@@ -12,6 +12,8 @@ A list of articles, books, videos to make me (or you) a better developer.
 
 ## JavaScript
 
+- [JavaScript Reddit](https://www.reddit.com/r/javascript/)
+
 ### Style Guides
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
