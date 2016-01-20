@@ -6,6 +6,10 @@ A list of articles, books, videos to make me (or you) a better developer.
 - [The Boring Front-end Developer](http://adamsilver.io/articles/the-boring-front-end-developer/)
 - [Mother Fucking Website](http://motherfuckingwebsite.com/)
 
+## Interviews
+
+- [How I hustled my way to a developer job at Khan Academy - Steph Jang](http://stephjang.com/blog/khan-academy-job/)
+
 ## Accessibility
 
 - [The Accessibility Project](http://a11yproject.com/)
