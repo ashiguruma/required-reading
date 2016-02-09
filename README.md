@@ -25,7 +25,7 @@ A list of articles, books, videos to make me (or you) a better developer.
 
 ### Books
 
-#### Pure JS
+#### Vanilla JS
 
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -49,3 +49,9 @@ A list of articles, books, videos to make me (or you) a better developer.
 ## HTML
 
 - [HTML5/CSS3: Advanced Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics)
+
+
+## Other
+
+- [Deep Work: Rules for Focused Success in a Distracted World](http://calnewport.com/books/deep-work/)
+
