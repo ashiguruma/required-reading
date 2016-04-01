@@ -41,6 +41,8 @@ A list of articles, books, videos to make me (or you) a better developer.
 
 - [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 - [ECMAScript 5 Strict Mode, JSON, and More](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+- [JavaScript Promises: There and back again](http://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Promises - States and Fates](https://github.com/domenic/promises-unwrapping/blob/master/docs/states-and-fates.md)
 
 ### Exercises/Courses
 
